@@ -94,9 +94,6 @@ cd IceCreamSales
 # Run directly
 dotnet run
 
-# Or build first, then execute
-dotnet build
-dotnet ./bin/Debug/net8.0/IceCreamSales.dll
 ```
 
 ### Run Online (No Installation)
@@ -246,9 +243,13 @@ The solution scales to millions of rows without modification (O(n) time, O(s×m)
 ---
 
 Contact
-name: HARSHITHA S
+ame: **HARSHITHA S**
+
 GitHub: https://github.com/harshitha-swamy
+
 LinkedIn: https://www.linkedin.com/in/harshitha-s-swamy/
+
 Email: harshithaswamy3124@gmail.com
+
 
 Thank you for reviewing this submission.
